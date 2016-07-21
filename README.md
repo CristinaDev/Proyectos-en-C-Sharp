@@ -1,3 +1,4 @@
-# Proyectos-en-C-Sharp
+# GestionCursos
+Programa para la gestión de cursos
 
-Aquí tendré todas las cositas que vaya haciendo en C# y que me parezcan interesantes.
+Tenemos dos ficheros: La clase CSCurso, que contendrá una estructura básica de lo que puede ser un curso académico y la clase Program, que permitirá almacenar distintos cursos académicos y añadir información a los mismos.
