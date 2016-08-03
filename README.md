@@ -1,3 +1,3 @@
 # Proyectos-en-C-Sharp
 
-Aquí tendré todas las cositas que vaya haciendo en C# y que me parezcan interesantes.
+En base a un número entero que llegue a la función (en este caso por teclado), almacenamos todos sus divisores para su posterior uso. Los mostramos para asegurarnos de que son los correctos.
